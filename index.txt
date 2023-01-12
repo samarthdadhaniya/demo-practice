@@ -1,8 +1,8 @@
 this is demo file.
 
-<<<<<<< HEAD
+
 hy there..
-=======
+
 hy there..
 jdvhjshdv
 '
@@ -11,4 +11,3 @@ dvs
 
 ghasjhdga
 543454335435
->>>>>>> 532e2d8 (commit)
